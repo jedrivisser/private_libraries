@@ -1,6 +1,6 @@
 package com.jedrivisser.privatedependencylibrary;
 
-import android.support.annotation.Keep;
+import androidx.annotation.Keep;
 
 import okhttp3.OkHttpClient;
 
